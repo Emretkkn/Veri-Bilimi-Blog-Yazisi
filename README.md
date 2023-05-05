@@ -6,7 +6,7 @@
     verileri arasında bu örüntünün tespit edilmesi, müşteri tercihlerinin, satın alma davranışlarının tespitini 
     kolaylaştıracak ayrıca rakiplere karşı geliştirilen stratejilerde önemli bir rol oynayacaktır.
 
-    ![pattern recognition](C:\Users\emret\OneDrive - Dokuz Eylül Üniversitesi\Masaüstü\pattern.pngC:\Users\emret\OneDrive - Dokuz Eylül Üniversitesi\Masaüstü\pattern.png)
+![patternrecognition](C:\Users\emret\OneDrive - Dokuz Eylül Üniversitesi\Masaüstü\pattern.png)
 
 
     Veri biliminde önemli olduğunu düşündüğüm iki konu var. Bunlardan birincisi yapılacak işin anlaşılmasıdır.
@@ -17,5 +17,4 @@
     sağlar. Bu yanlılıklara örnek verecek olursak; Amazonun işe alım sürecinde kullandığı bir yapay zeka uygulamasının erkek
     adaylara, kadın adaylara göre daha yüksek skor vermesidir.
 
-    ![bias](C:\Users\emret\OneDrive - Dokuz Eylül Üniversitesi\Masaüstü\bias.png) 
-    
+![bias](C:\Users\emret\OneDrive - Dokuz Eylül Üniversitesi\Masaüstü\bias.png) 
