@@ -16,4 +16,4 @@
     sağlar. Bu yanlılıklara örnek verecek olursak; Amazonun işe alım sürecinde kullandığı bir yapay zeka uygulamasının erkek
     adaylara, kadın adaylara göre daha yüksek skor vermesidir.
 
-![bias](https://cdn-bgmmo.nitrocdn.com/NGlvVRyeMofCmCnjxBQCjdzPdXJQDnKN/assets/images/optimized/rev-489bd42/wp-content/uploads/2023/03/hiring-bias-hero.svg) 
+![bias]([https://cdn-bgmmo.nitrocdn.com/NGlvVRyeMofCmCnjxBQCjdzPdXJQDnKN/assets/images/optimized/rev-489bd42/wp-content/uploads/2023/03/hiring-bias-hero.svg](https://imageio.forbes.com/specials-images/imageserve/643d83647f8a007bbd3bf6fa/0x0.jpg?format=jpg&width=1200)https://imageio.forbes.com/specials-images/imageserve/643d83647f8a007bbd3bf6fa/0x0.jpg?format=jpg&width=1200) 
